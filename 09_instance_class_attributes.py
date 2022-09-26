@@ -6,6 +6,7 @@ class Employee:
 ruhanyat = Employee()
 labib = Employee()
 ruhanyat.salary = 300
-labib.salary= 400
+
+
 print(ruhanyat.salary)
 print(labib.salary)
