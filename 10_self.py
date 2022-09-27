@@ -7,3 +7,4 @@ ruhanyat=Employee()
 
 ruhanyat.salary=100000
 Employee.getSalary(ruhanyat)
+ruhanyat.getSalary()
